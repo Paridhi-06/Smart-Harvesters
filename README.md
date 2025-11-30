@@ -1,5 +1,5 @@
 
-CropGuardian - Cleaned Prototype for Hack to Hire
+CropGuardian - Cleaned Prototype
 
 Summary of fixes:
 - Fixed the 'same output' bug by using deterministic per-image pseudo-inference when a real model is not loaded.
